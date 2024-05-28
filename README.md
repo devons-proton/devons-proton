@@ -12,7 +12,7 @@ Research:
   - Cellular Compressive Wing Architecture (Presented UW UGR 5/2024)
 
   Planned:
-  - Inherent Atomic-Oxygen Resistance in Small-Scale Satellite Systems (TBD)
+  - Inherent Atomic-Oxygen Resistance in Small-Scale Satellite Structures (TBD)
 
 <!---
 devons-proton/devons-proton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
