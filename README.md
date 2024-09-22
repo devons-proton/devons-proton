@@ -8,11 +8,15 @@ Interests:
 - Urban Air Mobility (UAM) and Unmanned Aerial Systems (UAS).
 
 Research:
+
+  Past:
+  - Beeswax Characterization / Adulteration Detection (Poster/Slides, Presented EdCC UGR 6/2024) 
+  
   Current:
   - Cellular Compressive Wing Architecture (Presented UW UGR 5/2024)
 
   Planned:
-  - SLA-Printed, Alloy-Plated Polymer Components for Space Vehicles (TBD) (Atomic-Oxygen resistance rolled in)
+  - SLA-Printed, Alloy-Plated Polymer Components for Space Vehicles (TBD)
 
 <!---
 devons-proton/devons-proton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
