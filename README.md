@@ -18,6 +18,7 @@ Research:
   Planned:
   - SLA-Printed, Alloy-Plated Polymer Components for Space Vehicles (TBD)
 
+Visit my blog at https://devons-proton.github.io/ for current projects and resumes.
 <!---
 devons-proton/devons-proton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
